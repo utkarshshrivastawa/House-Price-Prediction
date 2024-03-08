@@ -15,6 +15,7 @@ The Boston Housing dataset contains information collected by the U.S Census Serv
 ## Model Evaluation
 1. Evaluation Metrics: The model was evaluated using R squared error and Mean Absolute Error on both training and testing data.
 2. Results:
+   _____________________________________________________________________________________
           1. Training Data: R squared error of approximately 0.999, indicating that the model explains all the variability of the response data around its mean.
           2.Testing Data: R squared error of approximately 0.905, indicating a high level of prediction accuracy on unseen data.
 ## Predictive System
